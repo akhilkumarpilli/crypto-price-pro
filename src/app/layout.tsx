@@ -1,11 +1,11 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Price Viewer | Token Price Viewer using AI and Solana",
+  title: "CryptoPricePro | Token Price Viewer using AI and Solana",
   description: "View trending crypto currency price, pay in USDC, and get instant currency price using AI",
   icons: {
-    icon: "/favicon.ico",
-    shortcut: "/favicon.ico",
+    icon: "/favicon.svg",
+    shortcut: "/favicon.svg",
   },
 };
 

@@ -241,7 +241,7 @@ export default function Home() {
                 backgroundClip: "text",
               }}
             >
-              CryptoPrice Pro
+              CryptoPricePro
             </h2>
           </div>
 

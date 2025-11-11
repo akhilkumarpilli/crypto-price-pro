@@ -1,6 +1,6 @@
-# 🪙 Price Viewer
+# 🪙 CryptoPricePro
 
-**Price Viewer** is a next-generation **Solana-based AI-powered dApp** that allows users to pay with **USDC on Solana** and fetch **real-time crypto token prices** using a **multi-agent architecture** powered by **LLMs (Groq + OpenAI GPT OSS models)**.
+**CryptoPricePro** is a next-generation **Solana-based AI-powered dApp** that allows users to pay with **USDC on Solana** and fetch **real-time crypto token prices** using a **multi-agent architecture** powered by **LLMs (Groq + OpenAI GPT OSS models)**.
 
 It integrates **Phantom wallet**, dynamically fetches **SOL and USDC balances**, and presents a beautifully designed, professional, and responsive UI.
 
@@ -85,7 +85,7 @@ sequenceDiagram
 ## 📁 Project Structure
 
 ```
-price-viewer/
+crypto-price-pro/
 ├── app/
 │   ├── api/
 │   │   ├── client-agent/route.ts             # Handles client agent requests via LLM
@@ -125,8 +125,8 @@ price-viewer/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/akhilkumarpilli/price-viewer.git
-cd price-viewer
+git clone https://github.com/akhilkumarpilli/crypto-price-pro.git
+cd crypto-price-pro
 ```
 
 ### 2️⃣ Install Dependencies
@@ -218,7 +218,7 @@ This project is licensed under the **Apache License 2.0** — free for personal 
 ---
 
 ## 🧩 In Summary
-**Price Viewer** combines:
+**CryptoPricePro** combines:
 - Solana blockchain integration 🪙  
 - Multi-agent LLM system 🤖  
 - Real-time CoinGecko data 🌐  
