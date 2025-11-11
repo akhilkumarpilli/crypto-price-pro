@@ -1,5 +1,7 @@
 # 🪙 CryptoPricePro
 
+## Live Demo: https://crypto-price-pro.vercel.app/
+
 **CryptoPricePro** is a next-generation **Solana-based AI-powered dApp** that allows users to pay with **USDC on Solana** and fetch **real-time crypto token prices** using a **multi-agent architecture** powered by **LLMs (Groq + OpenAI GPT OSS models)**.
 
 It integrates **Phantom wallet**, dynamically fetches **SOL and USDC balances**, and presents a beautifully designed, professional, and responsive UI.
