@@ -2,11 +2,8 @@
 
 ## Live Demo: https://crypto-price-pro.vercel.app/
 
-## Demo
-<video width="600" controls>
-  <source src="./demo/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+## Demo Video
+[![Demo Video](./public/demo.gif)](https://crypto-price-pro.vercel.app/demo)
 
 **CryptoPricePro** is a next-generation **Solana-based AI-powered dApp** that allows users to pay with **USDC on Solana** and fetch **real-time crypto token prices** using a **multi-agent architecture** powered by **LLMs (Groq + OpenAI GPT OSS models)**.
 
